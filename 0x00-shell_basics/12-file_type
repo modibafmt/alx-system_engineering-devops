@@ -1,2 +1,2 @@
 #!/bin/bash
-vi /tmp/iamafile
+vim /tmp/iamafile
