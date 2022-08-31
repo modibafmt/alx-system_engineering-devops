@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /7-movethatfile /alx-system_engineering-devops
+mv  /tmp/betty /tmp/my_first_directory/betty
