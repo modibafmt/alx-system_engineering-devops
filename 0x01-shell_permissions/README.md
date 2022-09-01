@@ -1,1 +1,1 @@
-0x01. Shell, permissions project.
+0x01 shell permissions
